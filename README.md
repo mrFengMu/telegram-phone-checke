@@ -7,7 +7,8 @@
 <h1 align="center">Telegram 号码注册状态检测 API</h1>
 
 <p align="center">
-  <strong>告别无效号码测试浪费，精准识别 Telegram 是否已注册。</strong>
+  <strong>告别无效号码测试浪费，精准识别 Telegram 是否已注册。</strong><br>
+  *文末提供体验机器人，帮助您更好地体验服务！*
 </p>
 
 ---
@@ -27,7 +28,7 @@
 
 ### 🚀 API 使用示例
 
-根据您的测试，API通过 `POST` 请求发送 `JSON` 数据。
+根据测试，API通过 `POST` 请求发送 `JSON` 数据。
 
 #### **请求 (Request)**
 `POST /check-phone`
@@ -49,3 +50,4 @@
 
 * **Telegram:** [@pouqian](https://t.me/pouqian)
 * **邮箱:** `dongdi1224@gmail.com`
+* **体验机器人:** [@nihaoiybot](https://t.me/nihaoiybot)
