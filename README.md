@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/API状态-稳定运行-green" alt="API 状态">
   <img src="https://img.shields.io/badge/版本-v1.0-blue" alt="版本">
-  <a href="https://t.me/xm88918"><img src="https://img.shields.io/badge/Telegram-@pouqian-blue.svg?logo=telegram" alt="Telegram 联系方式"></a>
+  <a href="https://t.me/xm88918"><img src="https://img.shields.io/badge/Telegram-@xm88918-blue.svg?logo=telegram" alt="Telegram 联系方式"></a>
 </p>
 
 <h1 align="center">Telegram 号码注册状态检测 API</h1>
