@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/API状态-稳定运行-green" alt="API 状态">
   <img src="https://img.shields.io/badge/版本-v1.0-blue" alt="版本">
-  <a href="https://t.me/pouqian"><img src="https://img.shields.io/badge/Telegram-@pouqian-blue.svg?logo=telegram" alt="Telegram 联系方式"></a>
+  <a href="https://t.me/xm88918"><img src="https://img.shields.io/badge/Telegram-@pouqian-blue.svg?logo=telegram" alt="Telegram 联系方式"></a>
 </p>
 
 <h1 align="center">Telegram 号码注册状态检测 API</h1>
@@ -48,6 +48,6 @@
 
 如需获取 API Key、进行商务合作或需要技术支持，请通过以下方式联系我们。
 
-* **Telegram:** [@pouqian](https://t.me/pouqian)
+* **Telegram:** [@pouqian](https://t.me/xm88918)
 * **邮箱:** `dongdi1224@gmail.com`
 * **体验机器人:** [@nihaoiybot](https://t.me/nihaoiybot)
