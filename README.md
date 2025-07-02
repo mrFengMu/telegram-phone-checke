@@ -48,6 +48,6 @@
 
 如需获取 API Key、进行商务合作或需要技术支持，请通过以下方式联系我们。
 
-* **Telegram:** [@pouqian](https://t.me/xm88918)
+* **Telegram:** [@xm88918](https://t.me/xm88918)
 * **邮箱:** `dongdi1224@gmail.com`
 * **体验机器人:** [@nihaoiybot](https://t.me/nihaoiybot)
